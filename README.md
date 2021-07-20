@@ -1,2 +1,2 @@
 # newsletterCrud
-Basic crud Newsletter using  asp net and  C# to practice 
+Basic crud Newsletter using  asp net with  C# to practice 
